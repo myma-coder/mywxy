@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mywxy/mywxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```html
-[![Header](https://raw.githubusercontent.com/mywxy/mywxy/master/readme_header.png "Header")](https://mywxy.me/)
-```
+
+![Header](https://raw.githubusercontent.com/mywxy/mywxy/master/readme_header.png "Header")](https://mywxy.me/)
+
 
 # Hello, there! <img src="https://raw.githubusercontent.com/mywxy/mywxy/master/wave.gif" width="30px">
 
