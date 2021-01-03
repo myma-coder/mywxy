@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Header](https://raw.githubusercontent.com/mywxy/mywxy/master/readme_header.png "Header")](https://mywxy.me/)
-
-
 # Hello, there! <img src="https://raw.githubusercontent.com/mywxy/mywxy/master/wave.gif" width="30px">
 
 ## &#x270d; Blog & Writing
